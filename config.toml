@@ -45,3 +45,7 @@ url = "/post/"
 name = "Ship"
 weight = 3
 url = "/rela/"
+[[menu.main]]
+name = "Todo"
+weight = 4
+url = "/todo/"
