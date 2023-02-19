@@ -42,7 +42,7 @@ name = "Log"
 weight = 2
 url = "/log/"
 [[menu.main]]
-name = "Relationship"
+name = "Ship"
 weight = 3
 url = "/rela/"
 [[menu.main]]
