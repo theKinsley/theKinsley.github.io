@@ -3,7 +3,7 @@ languageCode = 'zh-cn'
 title = "theKinsley's 451s"
 theme = 'paper'
 
-disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+#disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 [params]
   # color style
@@ -23,7 +23,25 @@ disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
 
   # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
-  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
-  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  # disableHLJS = true                        # disable highlight.js
+   monoDarkIcon = true                       # show monochrome dark mode icon
+  # gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  # graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[[menu.main]]
+name = "About"
+weight = 1
+url = "/about/"
+[[menu.main]]
+name = "Log"
+weight = 2
+url = "/log/"
+[[menu.main]]
+name = "ToDo"
+weight = 3
+url = "/todo/"
