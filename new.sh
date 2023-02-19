@@ -1,0 +1,1 @@
+hugo new site s1/$2

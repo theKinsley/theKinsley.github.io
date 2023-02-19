@@ -1,0 +1,1 @@
+hugo new log/$(date +'%Y-%m-%d').md
