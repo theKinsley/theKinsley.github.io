@@ -5,9 +5,7 @@ draft: false
 ---
 
 
-## About Me
+## Ssiley
 
-I am a Master candidate in [WICT at Peking University](https://www.icst.pku.edu.cn/index.htm). I received my B.S. degree in the Department of Computer Science and Engineering from National Sun Yat-Sun University.
-
-My research interests include Computer Vision and Machine Learning, particularly in generative models and content creation.
-
+A master candidate in [WICT at Peking University](https://www.icst.pku.edu.cn/index.htm).
+Currently studying Multimedia Information Processing, i.e., CV, NLP, and cross-modality, particularily engaged in presentation layout generation.
