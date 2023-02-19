@@ -42,6 +42,10 @@ name = "Log"
 weight = 2
 url = "/log/"
 [[menu.main]]
-name = "ToDo"
+name = "Relationship"
 weight = 3
+url = "/rela/"
+[[menu.main]]
+name = "ToDo"
+weight = 4
 url = "/todo/"
