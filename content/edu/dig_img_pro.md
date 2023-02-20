@@ -1,3 +1,9 @@
+---
+title: "Digital Image Processing"
+date: 2023-02-19T15:36:31+08:00
+draft: false
+---
+
 - 采样vs量化：采样和量化是相反的
 尖锐区域->细腻采样、粗糙量化
 平滑区域->粗糙采样、细腻采样
