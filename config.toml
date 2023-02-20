@@ -1,6 +1,6 @@
 baseURL = 'https://thekinsley.github.io/'
 languageCode = 'zh-cn'
-title = "theKinsley's 451s"
+title = "tK's 451s"
 theme = 'paper'
 
 #disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
