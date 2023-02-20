@@ -1,3 +1,3 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Edus on tK's 451s</title><link>https://thekinsley.github.io/edu/</link><description>Recent content in Edus on tK's 451s</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 19 Feb 2023 15:36:31 +0800</lastBuildDate><atom:link href="https://thekinsley.github.io/edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Digital Image Processing</title><link>https://thekinsley.github.io/edu/dig_img_pro/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/edu/dig_img_pro/</guid><description>20 Feb, W1 采样vs量化：采样和量化是相反的 尖锐区域-&amp;gt;细腻采样、粗糙量化 平滑区域-&amp;gt;粗糙采样、细腻采样
 增强vs复原：图像增强是主观的、图像复原是客观的（面向传输等过程导致的损坏）
-连通性：(1)位置相邻、(2)灰度值相似</description></item></channel></rss>
+连通性 条件：(1)位置相邻、(2)灰度值相似 m连通？连通是一条线</description></item></channel></rss>
