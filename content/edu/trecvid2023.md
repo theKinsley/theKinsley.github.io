@@ -23,6 +23,9 @@ draft: false
 			- \*自动标注
 			- 构成：约15,000条视频、50,000条问题
 	- 测试
+- 指标
+	- 检索：\[1\]\[2\]
+	- 时域预测：IoU
 
 ##### Task2: Medical Instructional Question Generation (MIQG)
 - IOP
@@ -42,4 +45,6 @@ draft: false
 - Topic novelty
 - 
 
-### 
+### Ref
+[1] Sparck Jones. Report on the need for and provision of an" ideal" information retrieval test collection. 1975.
+[2] Chris Buckley, Darrin Dimmick, Ian Soboroff, and Ellen Voorhees. Bias and the limits of pooling for large collections. Information retrieval, 10(6):491–508, 2007
