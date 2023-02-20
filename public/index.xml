@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://thekinsley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Todo</title>
+      <link>https://thekinsley.github.io/todo/</link>
+      <pubDate>Mon, 20 Feb 2023 01:33:46 +0800</pubDate>
+      
+      <guid>https://thekinsley.github.io/todo/</guid>
+      <description>Feb 24 ICML审稿 </description>
+    </item>
+    
+    <item>
       <title>Rela.</title>
       <link>https://thekinsley.github.io/rela/</link>
       <pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate>
