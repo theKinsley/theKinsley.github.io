@@ -33,6 +33,9 @@ theme = 'paper'
   series = "series"
   tag = "tags"
 
+[markup.goldmark.renderer]
+hardWraps = true
+
 [[menu.main]]
 name = "About"
 weight = 1
