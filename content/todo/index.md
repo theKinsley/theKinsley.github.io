@@ -5,6 +5,5 @@ draft: false
 ---
 
 #### Feb
-##### 24
-- ICML审稿
+- 2023.02.24 ICML审稿
 
