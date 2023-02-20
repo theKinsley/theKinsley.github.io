@@ -51,4 +51,4 @@ draft: false
 
 ### Ref
 [1] Sparck Jones. Report on the need for and provision of an" ideal" information retrieval test collection. 1975.
-[2] Chris Buckley, Darrin Dimmick, Ian Soboroff, and Ellen Voorhees. Bias and the limits of pooling for large collections. Information retrieval, 10(6):491–508, 2007\\
+[2] Chris Buckley, Darrin Dimmick, Ian Soboroff, and Ellen Voorhees. Bias and the limits of pooling for large collections. Information retrieval, 10(6):491–508, 2007
