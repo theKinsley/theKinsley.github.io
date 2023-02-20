@@ -49,3 +49,7 @@ url = "/rela/"
 name = "Todo"
 weight = 4
 url = "/todo/"
+[[menu.main]]
+name = "Edu"
+weight = 5
+url = "/edu/"
