@@ -48,7 +48,7 @@ url = "/rela/"
 [[menu.main]]
 name = "Todo"
 weight = 4
-url = "/todo/"
+url = "/todo.md"
 [[menu.main]]
 name = "Edu"
 weight = 3
