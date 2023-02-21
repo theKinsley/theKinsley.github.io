@@ -6,6 +6,7 @@ draft: false
 
 #### Personal
 - 2023.02.21 15:00-19:00 LLDQ
+- Laundry
 
 #### Working
 - 2023.02.22 16:00-17:00 Routine MT
