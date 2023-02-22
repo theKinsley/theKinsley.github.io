@@ -31,9 +31,10 @@ draft: false
 	![Image](https://images2.imgbox.com/9a/b7/OBlL5ufD_o.png)
 		- 排名：北京邮电大学；马里兰大学；杭州电子科技大学
 	- 2021：6队参加
-	[Image](https://images2.imgbox.com/3f/c5/onbHFjdd_o.png)
+	![Image](https://images2.imgbox.com/3f/c5/onbHFjdd_o.png)
 		- 排名：北京邮电大学；中央佛罗里达大学；卡内基梅隆大学
 	- 2020：7队参加
+
 		- 
 
 ## Deep Video Understanding (DVU)
