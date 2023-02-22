@@ -7,11 +7,12 @@ draft: false
 (Current*)
 
 #### Personal
-- 2023.02.21 15:00-19:00 LLDQ
 - Laundry
 
 #### Working
-- 2023.02.22 16:00-17:00 Routine MT
+- 2023.02.23 周报*
+	- TRECVID2023
+	- MT l1, l2
 - 2023.02.24 ICML审稿*
 - 2023.04.30 ACM MM Submission
 
