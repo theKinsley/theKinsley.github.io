@@ -21,7 +21,7 @@ draft: false
 	2.
 - History：首届TRECVID竞赛为2019年
 	- 2022：6队参加
-		![Image1](https://thumbs2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
+		![Image1](https://images2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
 		- 排名：早稻田大学&明星大学&软银；人民大学
 	- 2021：6队参加
 	- 2020：7队参加
