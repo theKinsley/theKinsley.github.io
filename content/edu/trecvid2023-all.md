@@ -25,8 +25,7 @@ draft: false
 
 ## Activities in Extended Video (ActEv)
 - 本届任务
-	1.
-	2.
+	- 
 - History：首届TRECVID竞赛为2019年
 	- 2022：6队参加
 	- 2021：6队参加
