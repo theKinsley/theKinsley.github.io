@@ -24,6 +24,7 @@ draft: false
 
 
 ## Activities in Extended Video (ActEv)
+- 本届任务
 	1.
 	2.
 - History：首届TRECVID竞赛为2019年
@@ -32,6 +33,8 @@ draft: false
 	- 2020：7队参加
 
 ## Deep Video Understanding (DVU)
+- 本届任务
+
 - History：首届TRECVID竞赛为2022年
 	- 2022：3队参加
 	- 2020（ACM MM Grand Challenge）：
@@ -53,5 +56,5 @@ draft: false
 	- 2022 (ACL BioNLP Workshop Shared task)：13队参加
 	![Image](https://images2.imgbox.com/49/f5/RkaZTLKo_o.png)
 		- 该届任务及排名（1；2；3）
-			1. Medical Video Classification (MVC)：湖南大学&中科院；无锡启益医疗；百度AI
+			1. Medical Video Classification (MVC)：湖南大学&中科院；无锡启益医疗；百度
 			2. Medical Visual Answer Localization (MVAL)：平安健康医疗；上海交大&依图科技；华盛顿大学
