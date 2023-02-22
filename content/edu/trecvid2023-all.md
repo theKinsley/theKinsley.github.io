@@ -16,7 +16,11 @@ draft: false
 	![Image1](https://images2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
 		- 排名：早稻田大学&明星大学&软银；人民大学；希腊科技研究中心（CERTH）
 	- 2021：8队参加
+	![Image1](https://images2.imgbox.com/54/89/I3YNynjw_o.png)![Image2](https://images2.imgbox.com/c7/46/eS9sLTiG_o.png)
+		- 排名：香港城市大学；快手；人民大学
 	- 2020：9队参加
+		
+
 
 ## Activities in Extended Video (ActEv)
 	1.
