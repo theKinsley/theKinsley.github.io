@@ -38,11 +38,13 @@ draft: false
 		- 排名：卡内基梅隆大学；北京邮电大学；中央佛罗里达大学
 
 ## Deep Video Understanding (DVU)
-- 本届任务
-
+- 本届任务（同时建议参与ACM MM Grand Challenge）
+	1. Movie-level track
+	2. Scene-level track
 - History：首届TRECVID竞赛为2022年
 	- 2022：3队参加
 	![Image](https://thumbs2.imgbox.com/75/8a/JeteT31S_t.png)
+		- 排名：哥伦比亚大学；武汉大学；都柏林城市大学
 	- 2020（ACM MM Grand Challenge）：
 
 ## Video to Text (VTT)
