@@ -42,6 +42,7 @@ draft: false
 
 - History：首届TRECVID竞赛为2022年
 	- 2022：3队参加
+	![Image](https://thumbs2.imgbox.com/75/8a/JeteT31S_t.png)
 	- 2020（ACM MM Grand Challenge）：
 
 ## Video to Text (VTT)
