@@ -19,7 +19,7 @@ draft: false
 	![Image1](https://images2.imgbox.com/54/89/I3YNynjw_o.png)![Image2](https://images2.imgbox.com/c7/46/eS9sLTiG_o.png)
 		- 排名：香港城市大学；快手；人民大学（李锡荣）
 	- 2020：9队参加
-	![Image2](https://images2.imgbox.com/41/c5/HqG6O6hh_o.png)![Image2](https://images2.imgbox.com/b8/50/8dMCbFYK_o.png)
+	![Image1](https://images2.imgbox.com/41/c5/HqG6O6hh_o.png)![Image2](https://images2.imgbox.com/b8/50/8dMCbFYK_o.png)
 		- 排名：人民大学（金琴）；人民大学（李锡荣）；香港城市大学
 - 参加的优、劣：
 
@@ -70,8 +70,12 @@ draft: false
 	2. VTT Robustness SubTask (optional subtask)：
 - History：首届为2016年TRECVID竞赛
 	- 2022：6队参加
+	![Image](https://images2.imgbox.com/de/d0/yTHtm7W3_o.png)
+		- 排名：人民大学&腾讯、
 	- 2021：5队参加
+		- 排名：
 	- 2020：6队参加
+		- 排名：
 
 ## Medical Video Question Answering (MedVidQA)
 - 本届任务 https://medvidqa.github.io/index.html
