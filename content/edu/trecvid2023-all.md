@@ -21,7 +21,7 @@ draft: false
 	- 2020：9队参加
 	![Image2](https://images2.imgbox.com/41/c5/HqG6O6hh_o.png)![Image2](https://images2.imgbox.com/b8/50/8dMCbFYK_o.png)
 		- 排名：人民大学（金琴）；人民大学（李锡荣）；香港城市大学
-
+- 参加的优、劣：
 
 ## Activities in Extended Video (ActEv)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/actev.html https://actev.nist.gov/SRL
@@ -36,12 +36,17 @@ draft: false
 	- 2020：7队参加
 	![Image](https://images2.imgbox.com/fa/14/B4NemEDO_o.png)
 		- 排名：卡内基梅隆大学；北京邮电大学；中央佛罗里达大学
+- 参加的优、劣：
 
 ## Deep Video Understanding (DVU)
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
 	1. Movie-level track
+		- Group 1
+		- Group 2
 	2. Scene-level track
 - History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
+		- Group 1
+		- Group 2
 	- 2022（TRECVID)：3队参加
 	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
 		1. Movie-level track：哥伦比亚大学；武汉大学
@@ -49,19 +54,20 @@ draft: false
 		
 	- 2022（ACM MM）：6队参加
 	![Image](https://images2.imgbox.com/8c/97/oYoNghWq_o.png)
-		1. Movie-level track：南京大学
-		2. Scene-level track：
+		1. Movie-level track：南京大学；HERO TVQA（HERO是微软发表于EMNLP 2020的VLP模型）；苏黎世大学
+		2. Scene-level track：图策科技；南京大学
 
 	- 2021（ACM MM）：2队参加
 		- 排名：哥伦比亚大学；南京大学
 
 	- 2020（ACM MM)：3队参加
 		- 排名：南京大学 https://dl.acm.org/doi/10.1145/3394171.3416303；苏黎世大学 https://dl.acm.org/doi/10.1145/3394171.3416292；哥伦比亚大学 https://dl.acm.org/doi/pdf/10.1145/3394171.3416305
+- 参加的优、劣：
 
 ## Video to Text (VTT)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/vtt.html
-	1. 
-	2. 
+	1. Description Generation (Main Task)：
+	2. VTT Robustness SubTask (optional subtask)：
 - History：首届为2016年TRECVID竞赛
 	- 2022：6队参加
 	- 2021：5队参加
@@ -77,3 +83,5 @@ draft: false
 		- 该届任务及排名（1；2；3）
 			1. Medical Video Classification (MVC)：湖南大学&中科院；无锡启益医疗；百度
 			2. Medical Visual Answer Localization (MVAL)：平安健康医疗；上海交大&依图科技；华盛顿大学
+- 参加的优、劣：
+
