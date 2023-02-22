@@ -13,6 +13,8 @@ draft: false
 	2. Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query）
 - History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024）
 	- 2022：7队参加
+	![Image1](https://images2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
+		- 排名：早稻田大学&明星大学&软银；人民大学；希腊科技研究中心（CERTH）
 	- 2021：8队参加
 	- 2020：9队参加
 
@@ -21,8 +23,6 @@ draft: false
 	2.
 - History：首届TRECVID竞赛为2019年
 	- 2022：6队参加
-		![Image1](https://images2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
-		- 排名：早稻田大学&明星大学&软银；人民大学
 	- 2021：6队参加
 	- 2020：7队参加
 
