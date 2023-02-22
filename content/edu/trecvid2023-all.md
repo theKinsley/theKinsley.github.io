@@ -34,8 +34,8 @@ draft: false
 	![Image](https://images2.imgbox.com/3f/c5/onbHFjdd_o.png)
 		- 排名：北京邮电大学；中央佛罗里达大学；卡内基梅隆大学
 	- 2020：7队参加
-
-		- 
+	![Image](https://images2.imgbox.com/fa/14/B4NemEDO_o.png)
+		- 排名：卡内基梅隆大学；北京邮电大学；中央佛罗里达大学
 
 ## Deep Video Understanding (DVU)
 - 本届任务
