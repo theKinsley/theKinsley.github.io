@@ -9,23 +9,27 @@ draft: false
 
 ## Ad-hoc Video Search (AVS)
 - 本届任务
-	1. Main：
-	2. Progress：
+	1. Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段
+	2. Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query）
 - History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024）
 	- 2022：7队参加
 	- 2021：8队参加
 	- 2020：9队参加
 
 ## Activities in Extended Video (ActEv)
+	1.
+	2.
 - History：首届TRECVID竞赛为2019年
 	- 2022：6队参加
+		![Image1](https://thumbs2.imgbox.com/37/1b/Jncvr4Xz_o.png)![Image2](https://images2.imgbox.com/ae/10/8zqFdVSi_o.png)
+		- 排名：早稻田大学&明星大学&软银；人民大学
 	- 2021：6队参加
 	- 2020：7队参加
 
 ## Deep Video Understanding (DVU)
 - History：首届TRECVID竞赛为2022年
 	- 2022：3队参加
-	- 2020（ACM MM Grand Challenge）
+	- 2020（ACM MM Grand Challenge）：
 
 ## Video to Text (VTT)
 - 本届任务
