@@ -43,12 +43,12 @@ draft: false
 	2. Scene-level track
 - History：首届TRECVID竞赛为2022年，2019、2021、2022年为ACM MM Grand Challenge（前两年汇总信息未找到）
 	- 2022（TRECVID)：3队参加
-	![Image](https://image2.imgbox.com/75/8a/JeteT31S_o.png)
+	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
 		1. Movie-level track：哥伦比亚大学；武汉大学
 		2. Scene-level track：都柏林城市大学；哥伦比亚大学；武汉大学
 		
 	- 2022（ACM MM）：6队参加
-	![Image]()
+	![Image](https://images2.imgbox.com/8c/97/oYoNghWq_o.png)
 		1. Movie-level track：南京大学
 		2. Scene-level track：
 
