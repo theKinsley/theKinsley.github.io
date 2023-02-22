@@ -1,5 +1,5 @@
 ---
-title: "TRECVID2023"
+title: "TRECVID2023-Med"
 date: 2023-02-20T15:48:13+08:00
 draft: false
 ---
