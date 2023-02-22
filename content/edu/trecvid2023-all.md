@@ -41,7 +41,7 @@ draft: false
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
 	1. Movie-level track
 	2. Scene-level track
-- History：首届TRECVID竞赛为2022年，2019、2021、2022年为ACM MM Grand Challenge（前两年汇总信息未找到）
+- History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
 	- 2022（TRECVID)：3队参加
 	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
 		1. Movie-level track：哥伦比亚大学；武汉大学
@@ -51,6 +51,12 @@ draft: false
 	![Image](https://images2.imgbox.com/8c/97/oYoNghWq_o.png)
 		1. Movie-level track：南京大学
 		2. Scene-level track：
+
+	- 2021（ACM MM）：2队参加
+		- 排名：哥伦比亚大学；南京大学
+
+	- 2020（ACM MM)：3队参加
+		- 排名：南京大学 https://dl.acm.org/doi/10.1145/3394171.3416303；苏黎世大学 https://dl.acm.org/doi/10.1145/3394171.3416292；哥伦比亚大学 https://dl.acm.org/doi/pdf/10.1145/3394171.3416305
 
 ## Video to Text (VTT)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/vtt.html
