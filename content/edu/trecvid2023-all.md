@@ -8,7 +8,7 @@ draft: false
 (1) 有几年历史？（2）近3年的参赛队伍有多少支，有哪些队伍；（3）仅3年的排名前3的队伍；（4）与我们的相关度。我看你列了2个任务都跟医学相关？
 
 ## Ad-hoc Video Search (AVS)
-- 本届任务
+- 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html
 	1. Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段
 	2. Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query）
 - History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024）
@@ -24,7 +24,7 @@ draft: false
 
 
 ## Activities in Extended Video (ActEv)
-- 本届任务
+- 本届任务 https://www-nlpir.nist.gov/projects/tv2023/actev.html https://actev.nist.gov/SRL
 	- 给定描述物体活动的qeury（文本，主体多为人、车），检测并定位视频中相符的（时&空）目标
 - History：首届TRECVID竞赛为2019年
 	- 2022：6队参加
@@ -38,16 +38,22 @@ draft: false
 		- 排名：卡内基梅隆大学；北京邮电大学；中央佛罗里达大学
 
 ## Deep Video Understanding (DVU)
-- 本届任务（同时建议参与ACM MM Grand Challenge）
+- 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
 	1. Movie-level track
 	2. Scene-level track
-- History：首届TRECVID竞赛为2022年，2019年起为ACM MM Grand Challenge（但缺乏实际结果报告）
-	- 2022：3队参加
-	![Image](https://thumbs2.imgbox.com/75/8a/JeteT31S_t.png)
-		- 排名：哥伦比亚大学；武汉大学；都柏林城市大学
+- History：首届TRECVID竞赛为2022年，2019、2021、2022年为ACM MM Grand Challenge（前两年汇总信息未找到）
+	- 2022（TRECVID)：3队参加
+	![Image](https://image2.imgbox.com/75/8a/JeteT31S_o.png)
+		1. Movie-level track：哥伦比亚大学；武汉大学
+		2. Scene-level track：都柏林城市大学；哥伦比亚大学；武汉大学
+		
+	- 2022（ACM MM）：6队参加
+	![Image]()
+		1. Movie-level track：南京大学
+		2. Scene-level track：
 
 ## Video to Text (VTT)
-- 本届任务
+- 本届任务 https://www-nlpir.nist.gov/projects/tv2023/vtt.html
 	1. 
 	2. 
 - History：首届为2016年TRECVID竞赛
@@ -56,7 +62,7 @@ draft: false
 	- 2020：6队参加
 
 ## Medical Video Question Answering (MedVidQA)
-- 本届任务
+- 本届任务 https://medvidqa.github.io/index.html
 	1. Video Corpus Visual Answer Localization (VCVAL)：给定Query，从语料库检索包含答案的视频并定位答案所在时间段，类似首届的两个任务合并
 	2. Medical Instructional Question Generation (MIQG)：给定视频切片、字幕，生成该片段所能解答的指导性问题
 - History：首届为2022年ACL Workshop、今年首次引入TRECVID竞赛
