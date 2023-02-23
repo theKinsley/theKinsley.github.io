@@ -42,13 +42,13 @@ draft: false
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
 	- 给定（a）1.5至2小时的电影原片、（b）主要实体（人物、位置和概念）的图像、（c）全片级以及（d）场景级的实体之间的ontology（关系、交互、位置和情感），生成主要角色以及他们的（1）全片级关系知识库、（2）场景级互动知识库，以支持以下查询：
 	1. Movie-level track（全片级）
-		- Query 1, Question Answering (QA)：
-		- Query 2, Fill in the Graph Space：
+		- Query 1, Question Answering (QA)：给定不局限于ontology的open domain选择题（多选题），基于结果知识库回答
+		- Query 2, Fill in the Graph Space：给定特定节点的关系、事件或动作以及未完成（节点被未知变量替换的）的知识图谱，完成该知识图谱
 	2. Scene-level track（场景级）
-		- Query 1 & 2, Find Next or Previous Interaction：
-		- Query 3, Find the Unique Scene：
-		- Query 4, Match Scene to Text Description：
-		- Query 5, Scene Sentiment Classification：
+		- Query 1 & 2, Find Next or Previous Interaction：给定一个特定场景、两个主体之间的一个特定交互，选出他们的前一个或后一个交互（多选题）
+		- Query 3, Find the Unique Scene：给定原片中一个特定场景的交互列表，定位出该场景
+		- Query 4, Match Scene to Text Description：给定数个文本描述和数个场景，匹配相符的描述与场景
+		- Query 5, Scene Sentiment Classification：给定一个特定的场景和一组可能的情绪，找出场景的正确情绪标签（分类）
 - History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
 	- 2022（TRECVID)：3队参加
 	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
