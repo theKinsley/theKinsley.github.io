@@ -40,7 +40,7 @@ draft: false
 
 ## Deep Video Understanding (DVU)
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
-	- 给定（1）1.5至2小时的电影原片、（2）主要实体（人物、位置和概念）的图像、（3）全片级以及（4）场景级的实体之间的ontology（关系、交互、位置和情感），生成主要角色以及他们的(1)全片级关系知识库、(2)场景级互动知识库，以支持以下查询：
+	- 给定（a）1.5至2小时的电影原片、（b）主要实体（人物、位置和概念）的图像、（c）全片级以及（d）场景级的实体之间的ontology（关系、交互、位置和情感），生成主要角色以及他们的（1）全片级关系知识库、（2）场景级互动知识库，以支持以下查询：
 	1. Movie-level track（全片级）
 		- Query 1, Question Answering (QA)：
 		- Query 2, Fill in the Graph Space：
