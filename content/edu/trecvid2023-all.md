@@ -21,7 +21,8 @@ draft: false
 	- 2020：9队参加
 	![Image1](https://images2.imgbox.com/41/c5/HqG6O6hh_o.png)![Image2](https://images2.imgbox.com/b8/50/8dMCbFYK_o.png)
 		- 排名：人民大学（金琴）；人民大学（李锡荣）；香港城市大学
-- 参加的优、劣：
+	- 基本固定参与：人民大学
+- 与实验室关联：跨媒体检索
 
 ## Activities in Extended Video (ActEv)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/actev.html https://actev.nist.gov/SRL
@@ -36,7 +37,8 @@ draft: false
 	- 2020：7队参加
 	![Image](https://images2.imgbox.com/fa/14/B4NemEDO_o.png)
 		- 排名：卡内基梅隆大学；北京邮电大学；中央佛罗里达大学
-- 参加的优、劣：
+	- 基本固定参与：北京邮电大学
+- 与实验室关联：跨媒体检索
 
 ## Deep Video Understanding (DVU)
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
@@ -62,7 +64,8 @@ draft: false
 		- 排名：哥伦比亚大学；南京大学
 	- 2020（ACM MM)：3队参加
 		- 排名：南京大学 https://dl.acm.org/doi/10.1145/3394171.3416303；苏黎世大学 https://dl.acm.org/doi/10.1145/3394171.3416292；哥伦比亚大学 https://dl.acm.org/doi/pdf/10.1145/3394171.3416305
-- 参加的优、劣：
+	- 基本固定参与：哥伦比亚大学、南京大学
+- 与实验室关联：跨媒体知识图谱
 
 ## Video to Text (VTT)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/vtt.html
@@ -78,6 +81,8 @@ draft: false
 	- 2020：6队参加
 	![Image](https://images2.imgbox.com/67/79/htopOVTJ_o.png)
 		- 排名：人民大学（金琴）；阿尔托大学理工学院；奥格斯堡大学
+	- 基本固定参与：人民大学
+- 与实验室关联：视觉到文本生成
 
 ## Medical Video Question Answering (MedVidQA)
 - 本届任务 https://medvidqa.github.io/index.html
@@ -89,5 +94,5 @@ draft: false
 		- 该届任务及排名（1；2；3）
 			1. Medical Video Classification (MVC)：湖南大学&中科院；无锡启益医疗；百度
 			2. Medical Visual Answer Localization (MVAL)：平安健康医疗；上海交大&依图科技；华盛顿大学
-- 参加的优、劣：
+- 与实验室关联：视觉问答
 
