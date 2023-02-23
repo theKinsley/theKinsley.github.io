@@ -40,34 +40,34 @@ draft: false
 
 ## Deep Video Understanding (DVU)
 - 本届任务（同时建议参与ACM MM Grand Challenge）https://www-nlpir.nist.gov/projects/tv2023/dvu.html
-	1. Movie-level track
-		- Group 1
-		- Group 2
-	2. Scene-level track
-		- Group 1
-		- Group 2
+	给定（1）1.5至2小时的电影原片、（2）主要实体（人物、位置和概念）的图像、（3）全片级以及（4）场景级的实体之间的ontology（关系、交互、位置和情感），生成主要角色以及他们的(1)全片级关系知识库、(2)场景级互动知识库，以支持以下查询：
+	1. Movie-level track（全片级）
+		- Query 1, Question Answering (QA)：
+		- Query 2, Fill in the Graph Space：
+	2. Scene-level track（场景级）
+		- Query 1 & 2, Find Next or Previous Interaction：
+		- Query 3, Find the Unique Scene：
+		- Query 4, Match Scene to Text Description：
+		- Query 5, Scene Sentiment Classification：
 - History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
 	- 2022（TRECVID)：3队参加
 	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
 		1. Movie-level track：哥伦比亚大学；武汉大学
 		2. Scene-level track：都柏林城市大学；哥伦比亚大学；武汉大学
-		
 	- 2022（ACM MM）：6队参加
 	![Image](https://images2.imgbox.com/8c/97/oYoNghWq_o.png)
 		1. Movie-level track：南京大学；HERO TVQA（HERO是微软发表于EMNLP 2020的VLP模型）；苏黎世大学
 		2. Scene-level track：图策科技；南京大学
-
 	- 2021（ACM MM）：2队参加
 		- 排名：哥伦比亚大学；南京大学
-
 	- 2020（ACM MM)：3队参加
 		- 排名：南京大学 https://dl.acm.org/doi/10.1145/3394171.3416303；苏黎世大学 https://dl.acm.org/doi/10.1145/3394171.3416292；哥伦比亚大学 https://dl.acm.org/doi/pdf/10.1145/3394171.3416305
 - 参加的优、劣：
 
 ## Video to Text (VTT)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/vtt.html
-	1. Description Generation (Main Task)：
-	2. VTT Robustness SubTask (optional subtask)：
+	1. Description Generation (Main Task)：给定5至15秒的视频，生成一个文本描述、置信分数（0/1，仅用于分析系统，不用于评分）
+	2. VTT Robustness SubTask (optional subtask)：同Main Task，但在测试数据中将引入对音频或音频的扰动，以验证系统的鲁棒性
 - History：首届为2016年TRECVID竞赛
 	- 2022：6队参加
 	![Image](https://images2.imgbox.com/de/d0/yTHtm7W3_o.png)
