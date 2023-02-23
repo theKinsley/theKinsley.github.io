@@ -44,9 +44,9 @@ draft: false
 		- Group 1
 		- Group 2
 	2. Scene-level track
-- History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
 		- Group 1
 		- Group 2
+- History：首届TRECVID竞赛为2022年，2020年起为ACM MM Grand Challenge
 	- 2022（TRECVID)：3队参加
 	![Image](https://images2.imgbox.com/75/8a/JeteT31S_o.png)
 		1. Movie-level track：哥伦比亚大学；武汉大学
