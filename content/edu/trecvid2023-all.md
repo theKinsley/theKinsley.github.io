@@ -1,6 +1,6 @@
 ---
-title: "Trecvid2023 All"
-date: 2023-02-22T09:29:21+08:00
+title: "TRECVID2023选题调研"
+date: 2023-02-17T09:29:21+08:00
 draft: false
 ---
 
