@@ -4,9 +4,6 @@ date: 2023-02-22T09:29:21+08:00
 draft: false
 ---
 
-
-(1) 有几年历史？（2）近3年的参赛队伍有多少支，有哪些队伍；（3）仅3年的排名前3的队伍；（4）与我们的相关度。我看你列了2个任务都跟医学相关？
-
 ## Ad-hoc Video Search (AVS)
 - 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html
 	1. Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段
