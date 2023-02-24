@@ -13,6 +13,9 @@ Currently studying Multimedia Information Processing, i.e., CV, NLP, and cross-m
 
 ### Publications & Awards
 
-- 2023
-- 2022
-- 2021
+#### 2023
+#### 2022
+#### 2021
+##### A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs
+Hsu, Hsiao-Yuan, Nai-Hsin Cheng, and Chun-Wei Tsai
+*ACM International Conference on Intelligent Computing and its Emerging Applications (ACM ICEA), 2021*
