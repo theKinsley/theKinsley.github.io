@@ -7,11 +7,9 @@ draft: false
 (Current*)
 
 #### Personal
-- Laundry
 
 #### Working
-- 2023.02.24 ICML审稿*
-- 2023.02.24 TRECVID 2023 Word
+- 2023.02.24 TRECVID 2023 Word*
 - 2023.02.27 MT Poster-DL
 - 2023.02.27 章程PPT
 - 2023.02.28 MT L1, L2
