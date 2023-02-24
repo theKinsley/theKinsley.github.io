@@ -14,6 +14,8 @@ draft: false
 	- TRECVID2023
 	- MT l1, l2
 - 2023.02.24 ICML审稿*
+- 2023.02.27 章程PPT
+- 2023.03.01 AI EDU PPT
 - 2023.04.30 ACM MM Submission
 
 #### Lesson
