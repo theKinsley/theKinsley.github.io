@@ -29,4 +29,14 @@ Author notification: 15 July 2023
 Camera Ready:  1 August 2023
 
 ## CCF C
-- 
+- CAD/Graphics
+Full Paper Submission: Apr. 28, 2023
+First-round Review Notifications: May 27, 2023
+Revised Version Submission: Jun. 27, 2023
+Approval of the Revision: Jul. 4, 2023
+Camera-ready Paper Submission: Jul. 11, 2023
+Conference Dates: Aug. 19-21, 2023
+
+
+## Journal
+- TMM
