@@ -11,7 +11,6 @@ Supplementary material submission deadline: March 15, 2023 (23:59 GMT)
 Reviews released to authors: May 23, 2023 
 Rebuttal due: May 31, 2023 (23:59 GMT)
 Announcement of decisions : July 13, 2023
-
 - ACM MM
 Paper abstract deadline: 23 April 2023
 Paper submission deadline: 30 April 2023
