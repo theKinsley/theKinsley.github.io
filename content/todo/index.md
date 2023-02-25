@@ -9,9 +9,9 @@ draft: false
 #### Personal
 
 #### Working
-- 2023.02.24 TRECVID 2023 Word*
+- 2023.02.25 re-IJCAI*
 - 2023.02.27 MT Poster-DL
-- 2023.02.27 章程PPT
+- 2023.02.27 章程PPT-
 - 2023.02.28 MT L1, L2
 - 2023.03.01 AI EDU PPT
 - 2023.04.30 ACM MM Submission
