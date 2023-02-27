@@ -13,7 +13,8 @@ Regular Paper Rebuttal Deadline: 6 July 2023</description></item><item><title>TR
 增强vs复原：图像增强是主观的、图像复原是客观的（面向传输等过程导致的损坏）
 连通性
 条件：(1)位置相邻、(2)灰度值相似
-m连通？连通是一条线</description></item><item><title>Todo</title><link>https://thekinsley.github.io/todo/</link><pubDate>Mon, 20 Feb 2023 01:33:46 +0800</pubDate><guid>https://thekinsley.github.io/todo/</guid><description>(Current*)
+m连通？连通是一条线
+27 Feb, W2 点运算 反转变换 对数变换：动态压缩[0, 1.5*10^6]的傅立叶频谱图像素值至[0, 255] 伽马变换 对比度拉伸 灰度级切片：对关注与不关注两个范围的像素值分开处理 位平面(Bit-plane)切片 高位(7)：大纲、主要内容 低位(0)：细节 *与傅立叶图频谱图的高、低频异曲同工 代数运算 算术运算：+-*/ 去除叠加性噪声 逻辑运算：~|&amp;amp;^</description></item><item><title>Todo</title><link>https://thekinsley.github.io/todo/</link><pubDate>Mon, 20 Feb 2023 01:33:46 +0800</pubDate><guid>https://thekinsley.github.io/todo/</guid><description>(Current*)
 Personal Working postpone re-IJCAI 2023.02.27 MT Poster-DL 2023.02.28 MT L1, L2 2023.03.01 AI EDU PPT 2023.04.30 ACM MM Submission Lesson 2023.03.05 补退选截止 想清楚到底要体系结构还是面向对象 2023.03.06 英语写作作业1</description></item><item><title>Record</title><link>https://thekinsley.github.io/rec/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/rec/</guid><description>2023.02.25
 只记我自己。
 知道被Summary reject的时候，是愣住了，也因为后面有事情，不敢去探究更深一层的情绪。
