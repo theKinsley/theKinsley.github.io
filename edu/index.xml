@@ -14,7 +14,13 @@ Regular Paper Rebuttal Deadline: 6 July 2023</description></item><item><title>TR
 连通性
 条件：(1)位置相邻、(2)灰度值相似
 m连通？连通是一条线
-27 Feb, W2 点运算 反转变换 对数变换：动态压缩[0, 1.5*10^6]的傅立叶频谱图像素值至[0, 255] 伽马变换 对比度拉伸 灰度级切片：对关注与不关注两个范围的像素值分开处理 位平面(Bit-plane)切片 高位(7)：大纲、主要内容 低位(0)：细节 *与傅立叶图频谱图的高、低频异曲同工 代数运算 算术运算：+-*/ 去除叠加性噪声 逻辑运算：~|&amp;amp;^</description></item><item><title>TRECVID2023选题调研</title><link>https://thekinsley.github.io/edu/trecvid2023-all/</link><pubDate>Fri, 17 Feb 2023 09:29:21 +0800</pubDate><guid>https://thekinsley.github.io/edu/trecvid2023-all/</guid><description>Ad-hoc Video Search (AVS) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段 Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query） History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024） 2022：7队参加
+27 Feb, W2 点运算
+反转变换 对数变换：动态压缩[0, 1.5*10^6]的傅立叶频谱图像素值至[0, 255] 伽马变换 对比度拉伸 灰度级切片：对关注与不关注两个范围的像素值分开处理 位平面(Bit-plane)切片 高位(7)：大纲、主要内容 低位(0)：细节 *与傅立叶图频谱图的高、低频异曲同工 代数运算
+算术运算：+-*/ 去除叠加性噪声 逻辑运算：~|&amp;amp;^ 直方图
+定义：p(r_k) = n_k / n n是像素总数 k是特定像素值 r是灰度级(rank) 缺点：缺乏空间关系 重要应用：镜头检测方法等
+1。 直方图均衡化
+主旨：使图像的像素均衡占有所有可能灰度级，以具备高对比） 直方图相减：相邻视频帧处理 时空切片：相邻灰度级处理，分析颜色、纹理改变，甚至物体运动的改变 空间滤波
+线性滤波 均值(average)滤波器：去除噪声，容易丧失细节 中值(median)滤波器：去除噪声，更好地保留细节，适合消除椒盐噪声 最大值滤波器：突出亮处 最小值滤波器：突出暗处 非线形滤波 锐化滤波器 拉普拉斯变换</description></item><item><title>TRECVID2023选题调研</title><link>https://thekinsley.github.io/edu/trecvid2023-all/</link><pubDate>Fri, 17 Feb 2023 09:29:21 +0800</pubDate><guid>https://thekinsley.github.io/edu/trecvid2023-all/</guid><description>Ad-hoc Video Search (AVS) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段 Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query） History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024） 2022：7队参加
 排名：早稻田大学&amp;amp;明星大学&amp;amp;软银；人民大学（李锡荣）；希腊科技研究中心（CERTH） 2021：8队参加
 排名：香港城市大学；快手；人民大学（李锡荣） 2020：9队参加
 排名：人民大学（金琴）；人民大学（李锡荣）；香港城市大学 基本固定参与：人民大学 与实验室关联：跨媒体检索 Activities in Extended Video (ActEv) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/actev.html https://actev.nist.gov/SRL 给定描述物体活动的qeury（文本，主体多为人、车），检测并定位视频中相符的（时&amp;amp;空）目标 History：首届TRECVID竞赛为2019年 2022：6队参加
