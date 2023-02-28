@@ -4,14 +4,15 @@ date: 2023-02-20T01:33:46+08:00
 draft: false
 ---
 
-(Current*)
+(Current*, Late@)
 
 #### Personal
 
 #### Working
-- postpone re-IJCAI 
-- 2023.02.27 MT Poster-DL
-- 2023.02.28 MT L1, L2
+- postpone re-IJCAI, plan: TIP
+- @ 2023.02.27 MT Poster-DL
+- @ 2023.02.28 MT L1, L2
+- 2023.03.01 News*
 - 2023.03.01 AI EDU PPT
 - 2023.03.24 Camera ready
 - 2023.04.30 ACM MM Submission
