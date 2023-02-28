@@ -14,7 +14,8 @@ Currently studying Multimedia Information Processing, i.e., CV, NLP, and cross-m
 ### Publications & Awards
 
 **2023**
+*CVPR, 2023* (Accept)
 **2022**
-
+"PKU_WICT at TRECVID 2022: Disaster Scene Description and Indexing Task." Yanzhe Chen, HsiaoYuan Hsu, James Ye, Zhiwen Yang, Zishuo Wang, Xiangteng He, and Yuxin Peng. *NIST TRECVID, 2022*
 **2021**
-"A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs." Hsu, Hsiao-Yuan, Nai-Hsin Cheng, and Chun-Wei Tsai. *ACM International Conference on Intelligent Computing and its Emerging Applications (ACM-ICEA), 2021.*
+"A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs." Hsiao-Yuan Hsu, Nai-Hsin Cheng, and Chun-Wei Tsai. *ACM International Conference on Intelligent Computing and its Emerging Applications (ACM-ICEA), 2021.*
