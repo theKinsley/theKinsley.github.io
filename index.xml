@@ -21,7 +21,7 @@ m连通？连通是一条线
 1。 直方图均衡化
 主旨：使图像的像素均衡占有所有可能灰度级，以具备高对比） 直方图相减：相邻视频帧处理 时空切片：相邻灰度级处理，分析颜色、纹理改变，甚至物体运动的改变 空间滤波
 线性滤波 均值(average)滤波器：去除噪声，容易丧失细节 中值(median)滤波器：去除噪声，更好地保留细节，适合消除椒盐噪声 最大值滤波器：突出亮处 最小值滤波器：突出暗处 非线形滤波 锐化滤波器 拉普拉斯变换</description></item><item><title>Todo</title><link>https://thekinsley.github.io/todo/</link><pubDate>Mon, 20 Feb 2023 01:33:46 +0800</pubDate><guid>https://thekinsley.github.io/todo/</guid><description>(Current*, Late@)
-Personal Working postpone re-IJCAI, plan: TIP @ 2023.02.27 MT Poster-DL @ 2023.02.28 MT L1, L2 2023.03.01 News* 1.1稿完成并发出 2023.03.01 AI EDU PPT 2023.03.10 IJCAI Review 2023.03.24 Camera ready 2023.04.30 ACM MM Submission Lesson 2023.03.05 补退选截止 想清楚到底要体系结构还是面向对象 2023.03.06 英语写作作业1</description></item><item><title>Record</title><link>https://thekinsley.github.io/rec/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/rec/</guid><description>2023.02.25
+Personal Working postpone re-IJCAI, plan: TIP @ 2023.02.27 MT Poster-DL @ 2023.02.28 MT L1, L2 2023.03.01 News* 1.2稿完成并发出 2023.03.01 AI EDU PPT 2023.03 CVPR 2023 PPT 2023.03.10 IJCAI Review 2023.03.24 Camera ready 2023.04.30 ACM MM Submission 2023.06 CVPR 2023 Lesson 2023.03.05 补退选截止 想清楚到底要体系结构还是面向对象 2023.03.06 英语写作作业1</description></item><item><title>Record</title><link>https://thekinsley.github.io/rec/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/rec/</guid><description>2023.02.25
 只记我自己。
 知道被Summary reject的时候，是愣住了，也因为后面有事情，不敢去探究更深一层的情绪。
 午饭没有吃，可能我们就到此为止了吧，也偶然看到了黄色玫瑰的花语。
