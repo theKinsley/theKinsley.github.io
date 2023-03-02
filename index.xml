@@ -21,7 +21,7 @@ m连通？连通是一条线
 1。 直方图均衡化
 主旨：使图像的像素均衡占有所有可能灰度级，以具备高对比） 直方图相减：相邻视频帧处理 时空切片：相邻灰度级处理，分析颜色、纹理改变，甚至物体运动的改变 空间滤波
 线性滤波 均值(average)滤波器：去除噪声，容易丧失细节 中值(median)滤波器：去除噪声，更好地保留细节，适合消除椒盐噪声 最大值滤波器：突出亮处 最小值滤波器：突出暗处 非线形滤波 锐化滤波器 拉普拉斯变换</description></item><item><title>Todo</title><link>https://thekinsley.github.io/todo/</link><pubDate>Mon, 20 Feb 2023 01:33:46 +0800</pubDate><guid>https://thekinsley.github.io/todo/</guid><description>(Current*, Late@)
-Personal Working postpone re-IJCAI, plan: TIP @ 2023.02.27 MT Poster-DL @ 2023.02.28 MT L1, L2 2023.03.01 News* 1.2稿完成并发出 2023.03.01 AI EDU PPT 2023.03 CVPR 2023 PPT 2023.03.10 IJCAI Review 2023.03.24 Camera ready 2023.04.30 ACM MM Submission 2023.06 CVPR 2023 Lesson 2023.03.05 补退选截止 想清楚到底要体系结构还是面向对象 2023.03.06 英语写作作业1</description></item><item><title>Record</title><link>https://thekinsley.github.io/rec/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/rec/</guid><description>2023.02.25
+Personal Working postpone re-IJCAI, plan: TIP @ 2023.02.27 MT Poster-DL @ 2023.02.28 MT L1, L2 @ 2023.03.01 News 1.2稿完成并发出 @ 2023.03.01 AI EDU PPT 2023.03.03 项目书 2023.03.04 MT 论文推广素材 2023.03 CVPR 2023 PPT 2023.03.10 IJCAI Review 2023.03.24 Camera ready 2023.04.30 ACM MM Submission 2023.06 CVPR 2023 Lesson 2023.03.05 补退选截止 想清楚到底要体系结构还是面向对象 2023.03.06 英语写作作业1</description></item><item><title>Record</title><link>https://thekinsley.github.io/rec/</link><pubDate>Sun, 19 Feb 2023 15:36:31 +0800</pubDate><guid>https://thekinsley.github.io/rec/</guid><description>2023.02.25
 只记我自己。
 知道被Summary reject的时候，是愣住了，也因为后面有事情，不敢去探究更深一层的情绪。
 午饭没有吃，可能我们就到此为止了吧，也偶然看到了黄色玫瑰的花语。
@@ -44,11 +44,9 @@ Day1.</description></item><item><title>Kinsley Hsu</title><link>https://thekinsl
 Currently studying Multimedia Information Processing, i.e., CV, NLP, and cross-modality, particularly engaged in deep learning-based presentation layout generation.
 北京大学王选计算机研究所在读硕士研究生，属多媒体信息处理研究室，研究基于深度学习的演示布局生成。
 Publications &amp;amp; Awards 2023
-CVPR, 2023 (Accept)
+&amp;ldquo;PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout&amp;rdquo; HsiaoYuan Hsu, Xiangteng He, Yuxin Peng, Hao Kong and Qing Zhang. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 (Accept)
 2022
-&amp;ldquo;PKU_WICT at TRECVID 2022: Disaster Scene Description and Indexing Task.&amp;rdquo; Yanzhe Chen, HsiaoYuan Hsu, James Ye, Zhiwen Yang, Zishuo Wang, Xiangteng He, and Yuxin Peng. NIST TRECVID, 2022
-2021
-&amp;ldquo;A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs.</description></item><item><title>TRECVID2023选题调研</title><link>https://thekinsley.github.io/edu/trecvid2023-all/</link><pubDate>Fri, 17 Feb 2023 09:29:21 +0800</pubDate><guid>https://thekinsley.github.io/edu/trecvid2023-all/</guid><description>Ad-hoc Video Search (AVS) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段 Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query） History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024） 2022：7队参加
+&amp;ldquo;PKU_WICT at TRECVID 2022: Disaster Scene Description and Indexing Task.</description></item><item><title>TRECVID2023选题调研</title><link>https://thekinsley.github.io/edu/trecvid2023-all/</link><pubDate>Fri, 17 Feb 2023 09:29:21 +0800</pubDate><guid>https://thekinsley.github.io/edu/trecvid2023-all/</guid><description>Ad-hoc Video Search (AVS) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/avs.html Main：使用20个固定ad-hoc qeury（文本）和2023年新加的20个ad-hoc query（文本）检索视频片段 Progress：使用本次周期内的20个ad-hoc qeury检索视频（今年评估2022年、2023年个10个固定query） History：首届TRECVID竞赛为2016年，从2022年开始额外使用新的V3C2子集作为测试集（三年更新，本次周期：2022-2024） 2022：7队参加
 排名：早稻田大学&amp;amp;明星大学&amp;amp;软银；人民大学（李锡荣）；希腊科技研究中心（CERTH） 2021：8队参加
 排名：香港城市大学；快手；人民大学（李锡荣） 2020：9队参加
 排名：人民大学（金琴）；人民大学（李锡荣）；香港城市大学 基本固定参与：人民大学 与实验室关联：跨媒体检索 Activities in Extended Video (ActEv) 本届任务 https://www-nlpir.nist.gov/projects/tv2023/actev.html https://actev.nist.gov/SRL 给定描述物体活动的qeury（文本，主体多为人、车），检测并定位视频中相符的（时&amp;amp;空）目标 History：首届TRECVID竞赛为2019年 2022：6队参加
