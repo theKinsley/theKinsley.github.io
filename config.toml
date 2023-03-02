@@ -56,9 +56,3 @@ url = "/todo/"
 name = "Edu"
 weight = 3
 url = "/edu/"
-
-security:
-funcs:
-getenv:
-- ^HUGO_
-- ^WC_
