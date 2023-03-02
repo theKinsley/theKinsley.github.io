@@ -1,9 +1,3 @@
-security:
-funcs:
-getenv:
-- ^HUGO_
-- ^WC_
-
 baseURL = 'https://thekinsley.github.io/'
 languageCode = 'zh-cn'
 title = "tK's 451s"
@@ -62,3 +56,9 @@ url = "/todo/"
 name = "Edu"
 weight = 3
 url = "/edu/"
+
+security:
+funcs:
+getenv:
+- ^HUGO_
+- ^WC_
