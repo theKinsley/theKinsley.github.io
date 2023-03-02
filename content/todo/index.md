@@ -12,8 +12,9 @@ draft: false
 - postpone re-IJCAI, plan: TIP
 - @ 2023.02.27 MT Poster-DL
 - @ 2023.02.28 MT L1, L2
-- 2023.03.01 News* 1.2稿完成并发出
-- 2023.03.01 AI EDU PPT
+- @ 2023.03.01 News* 1.2稿完成并发出
+- @ 2023.03.01 AI EDU PPT
+- 2023.03.03 项目书
 - 2023.03 CVPR 2023 PPT
 - 2023.03.10 IJCAI Review
 - 2023.03.24 Camera ready
