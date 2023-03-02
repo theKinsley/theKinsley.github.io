@@ -14,7 +14,7 @@ Currently studying Multimedia Information Processing, i.e., CV, NLP, and cross-m
 ### Publications & Awards
 
 **2023**
-"PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout" **HsiaoYuan Hsu**, Xiangteng He, Yuxin Peng, Hao Kong and Qing Zhang. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023* (Accept)
+"PosterLayout: A New Benchmark and Approach for Content-Aware Visual-Textual Presentation Layout" **HsiaoYuan Hsu**, Xiangteng He, Yuxin Peng, Hao Kong and Qing Zhang. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023* (Accepted)
 **2022**
 "PKU_WICT at TRECVID 2022: Disaster Scene Description and Indexing Task." Yanzhe Chen, **HsiaoYuan Hsu**, James Ye, Zhiwen Yang, Zishuo Wang, Xiangteng He, and Yuxin Peng. *NIST TRECVID, 2022*
 **2021**
