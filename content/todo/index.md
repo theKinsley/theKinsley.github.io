@@ -11,10 +11,9 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- 2023.03.04 项目书
-- 2023.03.06 MT 论文推广素材
-- 2023.03.06 MT Poster-DL
-- 2023.03.08 2023.03.01 AI EDU PPT
+- @ 2023.03.06 MT 论文推广素材
+- @ 2023.03.06 MT Poster-DL
+- 2023.03.08 AI EDU PPT
 - 2023.03.10 IJCAI Review
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
