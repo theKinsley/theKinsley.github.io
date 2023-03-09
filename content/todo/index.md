@@ -11,7 +11,6 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- @ 2023.03.06 MT 论文推广素材
 - @ 2023.03.06 MT Poster-DL
 - 2023.03.10 IJCAI Review
 - 2023.03.12 AI EDU PPT 0308版本已交
@@ -22,7 +21,7 @@ draft: false
 - 2023.06 CVPR 2023
 
 #### Lesson
-- 2023.03.14 JE2
+- 2023.03.14 JE2: Your Treasure
 
 
 ##### Camera ready 03/18前完成
