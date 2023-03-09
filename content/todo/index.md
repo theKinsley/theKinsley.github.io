@@ -13,8 +13,8 @@ draft: false
 - @ 2023.02.28 MT L1, L2
 - @ 2023.03.06 MT 论文推广素材
 - @ 2023.03.06 MT Poster-DL
-- 2023.03.08 AI EDU PPT
 - 2023.03.10 IJCAI Review
+- 2023.03.12 AI EDU PPT 0308版本已交
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
@@ -23,3 +23,12 @@ draft: false
 
 #### Lesson
 - 2023.03.14 JE2
+
+
+##### Camera ready 03/18前完成
+- 开源
+- Author Collection (https://openreview.net/group?id=thecvf.com/CVPR/2023/Conference/Authors)
+- 图像质量下降(file 10mb limitation)
+- IEEE PDF eXpress (https://ieee-pdf-express.org/)
+- Register an author for the conference (https://cvpr2023.thecvf.com/Conferences/2023/Pricing2)
+- Copyright Submission
