@@ -25,7 +25,7 @@ draft: false
 
 
 ##### Camera ready 03/18前完成
-- 开源
+- 开源 需要换电脑操作
 - Author Collection (https://openreview.net/group?id=thecvf.com/CVPR/2023/Conference/Authors)
 - fast sol: 作者信息、图像质量下降(file 10mb limitation)
 - IEEE PDF eXpress (https://ieee-pdf-express.org/)
