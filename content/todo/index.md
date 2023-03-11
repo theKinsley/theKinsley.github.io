@@ -11,9 +11,9 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- @ 2023.03.10 Work PPT 0311版本完成待交
+- @ 2023.03.10 Work PPT 0311版本已交
 - @ 2023.03.10 IJCAI Review
-- @ 2023.03.12 AI EDU PPT 0311版本完成待交
+- @ 2023.03.12 AI EDU PPT 0311版本已交
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
@@ -22,7 +22,6 @@ draft: false
 - 2023.06 CVPR 2023
 
 #### Lesson
-- @ 2023.03.10 JE1: re-submit
 - 2023.03.14 JE2: Your Treasure
 
 
