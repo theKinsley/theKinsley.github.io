@@ -11,18 +11,18 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- 2023.03.10 Work PPT
-- 2023.03.10 IJCAI Review
-- 2023.03.12 AI EDU PPT 0308版本已交
+- @ 2023.03.10 Work PPT 0311版本完成待交
+- @ 2023.03.10 IJCAI Review
+- @ 2023.03.12 AI EDU PPT 0311版本完成待交
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
-- 2023.03 MT 布局迭代
+- 2023.03 MT 布局迭代 0310集成DL 差颜色模块 还要debug
 - 2023.04.30 ACM MM Submission
 - 2023.06 CVPR 2023
 
 #### Lesson
-- 2023.03.10 JE1: re-submit
+- @ 2023.03.10 JE1: re-submit
 - 2023.03.14 JE2: Your Treasure
 
 
