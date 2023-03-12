@@ -1,5 +1,5 @@
 ---
-title: "Record"
+title: "Emotion"
 date: 2023-02-19T15:36:31+08:00
 draft: false
 ---
