@@ -45,7 +45,7 @@ name = "Post"
 weight = 2
 url = "/post/"
 [[menu.main]]
-name = "Ship"
+name = "Rec"
 weight = 5
 url = "/rec/"
 [[menu.main]]
