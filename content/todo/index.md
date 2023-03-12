@@ -11,9 +11,7 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- @ 2023.03.10 Work PPT 0311版本已交
-- @ 2023.03.10 IJCAI Review
-- @ 2023.03.12 AI EDU PPT 0311版本已交
+- @* 2023.03.10 IJCAI Review
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
@@ -22,11 +20,11 @@ draft: false
 - 2023.06 CVPR 2023
 
 #### Lesson
-- 2023.03.14 JE2: Your Treasure
+- *2023.03.14 JE2: Your Treasure
 
 
 ##### Camera ready 03/18前完成
-- 开源 需要换电脑操作
+- *开源 需要换电脑操作
 - Author Collection (https://openreview.net/group?id=thecvf.com/CVPR/2023/Conference/Authors)
 - fast sol: 作者信息、图像质量下降(file 10mb limitation)
 - IEEE PDF eXpress (https://ieee-pdf-express.org/)
