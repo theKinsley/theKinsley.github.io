@@ -53,7 +53,6 @@ m连通？连通是一条线
 			2. 
 
 - 检索指标
-	1. MRR
-	2. ANMRR
+	1. MRR、ANMRR
 	3. MAP
 	4. P-R Curve
