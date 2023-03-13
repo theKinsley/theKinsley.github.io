@@ -11,7 +11,6 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- @* 2023.03.10 IJCAI Review
 - 2023.03.16 ICMR Review
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
@@ -20,7 +19,6 @@ draft: false
 - 2023.06 CVPR 2023
 
 #### Lesson
-- *2023.03.14 JE2: Your Treasure
 - 2023.05.14 DIP作业 3个 早点开始
 
 
