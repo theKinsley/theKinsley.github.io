@@ -21,6 +21,7 @@ draft: false
 
 #### Lesson
 - *2023.03.14 JE2: Your Treasure
+- 2023.05.14 DIP作业 3个 早点开始
 
 
 ##### Camera ready 03/18前完成
