@@ -11,7 +11,7 @@ draft: false
 #### Working
 - re-IJCAI to TIP
 - @ 2023.02.28 MT L1, L2
-- 2023.03.16 ICMR Review
+- 2023.03.16 ICMR Review*
 - 2023.03.24 Camera ready
 - 2023.03 CVPR 2023 PPT
 - 2023.03 MT 布局迭代 0310集成DL 差颜色模块 还要debug
@@ -19,6 +19,7 @@ draft: false
 - 2023.06 CVPR 2023
 
 #### Lesson
+- 2023.03.16 搞清楚英文写作到底要干嘛
 - 2023.05.14 DIP作业 3个 早点开始
 
 
