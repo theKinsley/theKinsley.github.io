@@ -14,7 +14,7 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 
 | |
 | :---- |
-| <img src="https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/10/21/TRECVID_2022.png?itok=UpjKnnmJ" width="200px"> |
+| <img src="https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/10/21/TRECVID_2022.png?itok=UpjKnnmJ" class="home_instuitue_banner"> |
 | In **TRECVID 2022**: \"Disaster Scene Description & Indexing Challenge\" 1st place |
 | [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)|
 | <img src="https://icea-conf.github.io/2021/image/ICEA 2021-Banner-v1.2.jpg" width="200px"> |
