@@ -18,7 +18,7 @@ I am now a master\'s student in **Wangxuan Institute of Computer Technology** at
 - \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\"<br />*in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
 
 ### Education
-<img src="education.png" srcset="education.svg">
+<img src="education.png">
 
 ### Experiences
-<img src="experience.png" srcset="experience.svg">
+<img src="experience.png">
