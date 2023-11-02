@@ -19,3 +19,4 @@ I am now a master\'s student in **Wangxuan Institute of Computer Technology** at
 
 ### Education & Experiences
 <img src="education.svg" srcset="education.svg">
+<img src="experience.svg" srcset="experience.svg">
