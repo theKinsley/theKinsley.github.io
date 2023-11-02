@@ -6,13 +6,12 @@ description = "Happiness is a prerequisite for life;<br />anyone who damages min
 profilePicture = "/img/profile.jpg"
 keywords = ""
 favicon = "/img/"
-#favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+images = ["/img/favicon.ico"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
