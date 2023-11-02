@@ -1,0 +1,1 @@
+hugo new $1/$2.md
