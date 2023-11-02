@@ -1,11 +1,13 @@
 
 title = "tK's 451s"
 author = "Kinsley Hsu"
-copyright = "2022-2023"
+copyright = "Kinsley Hsu 2022-2023"
 description = "Happiness is a prerequisite for life;<br />anyone who damages mine, please leave."
+
 profilePicture = "/img/profile.jpg"
 keywords = ""
 favicon = "/img/"
+
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
