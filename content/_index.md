@@ -6,7 +6,7 @@ draft: false
 
 ### About Me
 
-Kinsley is a master's student in WICT at Peking University.
+Kinsley is a master\'s student in WICT at Peking University.
 She is currently studying CV, particularly engaged in deep learning-based presentation layout generation.
 
 北京大学王选计算机研究所在读硕士研究生，研究基于深度学习的展示布局生成。
