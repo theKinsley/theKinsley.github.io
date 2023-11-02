@@ -2,7 +2,6 @@
 title: "Improve My Life"
 date: 2023-06-08T17:21:39+08:00
 draft: false
-type: post
 ---
 
 #### Shopping list

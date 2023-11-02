@@ -2,7 +2,6 @@
 title: "CVPR'23"
 date: 2023-06-23T13:06:01+08:00
 draft: false
-type: post
 ---
 
 CVPR结束啦！一口粮硬生生吃了4个月的我是屑！大满足的屑！🥹
