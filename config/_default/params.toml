@@ -66,12 +66,12 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://instagram.com/thekinsley_gallery/"
+url = "https://github.com/theKinsley"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
-url = ""
+url = "https://instagram.com/thekinsley_gallery/"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
