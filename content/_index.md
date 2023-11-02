@@ -12,18 +12,11 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 
 ### Publications & Competitions
 
-| |
-| :---- |
-| <img src="https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/10/21/TRECVID_2022.png?itok=UpjKnnmJ" class="home_instuitue_banner"> |
-| In **TRECVID 2022**: \"Disaster Scene Description & Indexing Challenge\" 1st place |
-| [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)|
-| <img src="https://icea-conf.github.io/2021/image/ICEA 2021-Banner-v1.2.jpg" width="200px"> |
-| In **ACM ICEA 2021**: \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\" |
-| [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509) |
-
-- \"PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout\"<br />*in Proceedings of* **CVPR 2023**<br />[[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Project]](http://59.108.48.34/tiki/PosterLayout/)[[Source code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
-- \"DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs\" *in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
-- 1st place in \"Disaster Scene Description & Indexing Challenge\" of **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
-- \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\" *in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
+- \"PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout\"<br />*in Proceedings of* **CVPR 2023** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Project]](http://59.108.48.34/tiki/PosterLayout/)[[Source code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
+- \"DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs\"<br />*in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
+- \"Disaster Scene Description & Indexing Challenge\" 1st place<br />in **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
+- \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\"<br />*in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
 
 ### Honors & Awards
+
+### Education & Experiences
