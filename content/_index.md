@@ -13,7 +13,7 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 ### Publications & Competitions
 
 | | |
-| -- | --------------------- |
+| --------------------- | -- |
 | <img src="https://icea-conf.github.io/2021/image/ICEA 2021-Banner-v1.2.jpg" width="200px"> | |
 | In **ACM ICEA 2021**: "A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\" | [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509) |
 
