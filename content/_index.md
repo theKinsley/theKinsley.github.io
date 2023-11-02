@@ -4,9 +4,9 @@ date: 2023-02-18T17:52:35+08:00
 draft: false
 ---
 
-### About Me
+### About | Hsiao-Yuan, Kinsley, Hsu
 
-Kinsley is a master\'s student in WICT at Peking University.
+Hsiao-Yuan is a master\'s student in WICT at Peking University.
 She is currently studying CV, particularly engaged in deep learning-based presentation layout generation.
 
 北京大学王选计算机研究所在读硕士研究生，研究基于深度学习的展示布局生成。
