@@ -5,8 +5,6 @@ draft: false
 url: rewind/Worklog
 type: post
 ---
-[blackfriday]
-  extensions = ["hardLineBreak"]
 
 2023.04.16
 dxc；自煮中餐。
