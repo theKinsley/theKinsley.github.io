@@ -4,7 +4,7 @@ date: 2023-02-18T17:52:35+08:00
 draft: false
 ---
 
-### About Me | Hsiao-Yuan, Kinsley, Hsu
+### About Me | <b>Hsiao-Yuan, Kinsley, Hsu</b>
 
 I am now a master\'s student in Wangxuan institute of computer technology (WICT) at **Peking University**.
 
