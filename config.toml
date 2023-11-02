@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 localizedDates = false
 
 [params]
-	favicon = "static/img"
+	favicon = "/img/"
 
 [markup]
     [markup.goldmark]
