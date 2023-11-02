@@ -17,6 +17,8 @@ I am now a master\'s student in **Wangxuan Institute of Computer Technology** at
 - \"Disaster Scene Description & Indexing Challenge\" 1st place<br />*in* **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
 - \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\"<br />*in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
 
-### Education & Experiences
+### Education
 <img src="education.svg" srcset="education.svg">
+
+### Experiences
 <img src="experience.svg" srcset="experience.svg">
