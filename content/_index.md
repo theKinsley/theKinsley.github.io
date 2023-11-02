@@ -12,6 +12,7 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 
 ### Publications & Competitions
 
+| |
 | :---- |
 | <img src="https://www.nist.gov/sites/default/files/styles/480_x_480_limit/public/images/2022/10/21/TRECVID_2022.png?itok=UpjKnnmJ" width="200px"> |
 | In **TRECVID 2022**: \"Disaster Scene Description & Indexing Challenge\" 1st place |
