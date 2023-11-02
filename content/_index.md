@@ -6,7 +6,7 @@ draft: false
 
 ### About Me | Hsiao-Yuan, Kinsley, Hsu
 
-I am now a master\'s student in **Wangxuan institute of computer technology** at **Peking University**. My research interests include deep-learning-based presentation layout generation, multimodal video understanding, and 3D action understanding.
+I am now a master\'s student in **Wangxuan Institute of Computer Technology** at **Peking University**. My research interests include deep-learning-based presentation layout generation, multimodal video understanding, and 3D action understanding.
 
 目前，我在**北京大学王选计算机研究所**攻读硕士研究生学位，研究方向主要为基于深度学习的展示布局生成、多模态视频理解、三维动作理解。
 
@@ -17,6 +17,5 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 - \"Disaster Scene Description & Indexing Challenge\" 1st place<br />*in* **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
 - \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\"<br />*in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
 
-### Honors & Awards
-
 ### Education & Experiences
+<img src="education.svg">
