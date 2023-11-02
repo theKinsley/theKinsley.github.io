@@ -9,7 +9,7 @@ keywords = ""
 favicon = "/img/"
 
 # example ["css/custom.css"]
-customCss = ["/add_css.css"]
+customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
