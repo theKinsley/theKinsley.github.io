@@ -12,6 +12,10 @@ I am now a master\'s student in **Wangxuan institute of computer technology** at
 
 ### Publications & Competitions
 
+| | |
+| -- | --------------------- |
+| | **ACM ICEA 2021** |
+
 - \"PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout\" *in Proceedings of* **CVPR 2023** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Project]](http://59.108.48.34/tiki/PosterLayout/)[[Source code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - \"DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs\" *in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
 - 1st place in \"Disaster Scene Description & Indexing Challenge\" of **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
