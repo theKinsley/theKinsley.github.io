@@ -20,11 +20,11 @@ name = "ToDo"
 identifier = "todo"
 weight = 310
 url = "/todo"
-parent = "Personal"
+parent = "personal"
 
 [[main]]
 name = "Rewind"
 identifier = "rewind"
 weight = 320
 url = "/rewind"
-parent = "Personal"
+parent = "personal"
