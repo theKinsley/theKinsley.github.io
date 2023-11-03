@@ -18,14 +18,17 @@ draft: false
 
 
 #### Personal
-- 2024春天 美团春招
 - ZY: C#
 - CVPR报销
+- 2024春天 美团春招
 - 2024.09 申请奖学金
 
-#### Working
-- 2023.11.17 CVPR'24 DDL
+#### Group
+- 11.03：团信动态
+- 11.04：观赛报销材料：1、2
 
-#### Conference
+#### Working
+- 11.17 CVPR'24 DDL
 
 #### Lesson
+- 11w2找授课教师要PPT
