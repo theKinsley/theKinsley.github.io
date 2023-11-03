@@ -34,6 +34,7 @@ draft: false
 		- 材料
 	
 #### Working
+- 11.08 ICASSP审稿
 - 11.17 CVPR'24 DDL
 
 #### Lesson
