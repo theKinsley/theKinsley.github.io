@@ -37,4 +37,6 @@ draft: false
 - 11.17 CVPR'24 DDL
 
 #### Lesson
-- 11w2找授课教师要PPT
+- 11w2
+	- 找授课教师要PPT
+	- 整理签到表
