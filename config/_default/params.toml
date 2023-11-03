@@ -76,7 +76,7 @@ url = "https://instagram.com/thekinsley_gallery/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:kslh99@stu.pku.edu.cn"
+url = "kslh99@stu.pku.edu.cn"
 
 [mermaid]
 # enable = true
