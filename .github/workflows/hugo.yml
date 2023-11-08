@@ -57,14 +57,10 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: ./public
       - name: Setup Python Version
         uses: actions/setup-python@v2
         with:
-          python-version: 3.8 #install the python needed
+          python-version: 3.8.7 #install the python needed
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
@@ -72,6 +68,10 @@ jobs:
       - name: Execute Python script # run file
         run: |
           python hugo-encryptor.py
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
 
   # Deployment job
   deploy:
