@@ -12,7 +12,7 @@ enableRobotsTXT = true
 pygmentsUseClasses = true   
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-footnotereturnlinkcontents = "\"
+footnotereturnlinkcontents = "\\"
 
 # Localized dates requires Hugo version 0.87.0
 localizedDates = false
