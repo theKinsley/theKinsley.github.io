@@ -12,7 +12,6 @@ enableRobotsTXT = true
 pygmentsUseClasses = true   
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-footnotereturnlinkcontents = "\\"
 
 # Localized dates requires Hugo version 0.87.0
 localizedDates = false
@@ -21,6 +20,7 @@ localizedDates = false
     [markup.goldmark]
         [markup.goldmark.renderer]
         unsafe = true
+		hardWraps = true
 
 [taxonomies]
     category = "categories"
