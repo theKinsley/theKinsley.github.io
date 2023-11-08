@@ -6,7 +6,7 @@ draft: false
 
 <!--more-->
 
-{{% hugo-encryptor "PASSWORD123" %}}
+{{% hugo-encryptor "123" %}}
 
 # 这里是你要加密的内容!
 
