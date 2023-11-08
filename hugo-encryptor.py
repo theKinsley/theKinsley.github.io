@@ -48,7 +48,6 @@ if __name__ == '__main__':
                 del block['data-password']
                 block.string = written.decode()
             
-            print(len(blocks))
             if len(blocks):
                 soup.body.append(soup.new_tag("script", src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"))
                 script_tag = soup.new_tag("script", src="https://cdn.jsdelivr.net/gh/Li4n0/hugo_encryptor@master/decrypt.js")
