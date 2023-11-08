@@ -4,6 +4,10 @@ date: 2023-03-12T10:00:00+08:00
 draft: false
 ---
 
+<!--more-->
+
+{{% hugo-encryptor "0518" %}}
+
 2023.04.16
 dxc；自煮中餐。
 读了一些You and Your Research；回复许博士。
@@ -164,3 +168,5 @@ IJCAI审稿；英语JE2；一点点没有用的科普PPT。
 2023.03.10
 集成DL的海报生成；有点用的论文PPT；看了Camera Ready的引导文件，确认数据集开源方式。
 今日产出评价：生活0分，科研2分。
+
+{{% /hugo-encryptor %}}

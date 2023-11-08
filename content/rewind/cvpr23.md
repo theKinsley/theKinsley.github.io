@@ -4,6 +4,10 @@ date: 2023-06-23T13:06:01+08:00
 draft: false
 ---
 
+<!--more-->
+
+{{% hugo-encryptor "0518" %}}
+
 CVPR结束啦！一口粮硬生生吃了4个月的我是屑！大满足的屑！🥹
 
 首先浅记录一下这几天参与了些什么，Break和Lunch就不记录啦都吃了都喝了🥰
@@ -13,3 +17,5 @@ CVPR结束啦！一口粮硬生生吃了4个月的我是屑！大满足的屑！
 - Day 4: Keynote, Poster-AM, Panel (but sleepy...), PAMI-TC (half), Poster-PM, Reception
 - Day 5: Keynote, Poster-AM, Panel (little sleepy...), Oral, Poster-PM
 五天似乎一下子就过了😭
+
+{{% /hugo-encryptor %}}
