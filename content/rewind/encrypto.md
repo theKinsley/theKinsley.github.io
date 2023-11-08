@@ -17,3 +17,5 @@ draft: false
 **别忘了闭合 `hugo-encryptor` shortcode 标签:**
 
 {{% /hugo-encryptor %}}
+
+testing
