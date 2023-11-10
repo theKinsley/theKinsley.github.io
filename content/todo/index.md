@@ -22,14 +22,12 @@ draft: false
 
 
 #### Personal
-- ZY: C#
+- ZY: C# 
 - 2024春天 美团春招
 - 2024.09 申请奖学金
 
 #### Group
 - S13活动
-	- 竞猜2推送
-		- 规则
 	- 竞猜1结果推送、
 		- 采访同学
 	- 竞猜奖品报销
@@ -37,7 +35,6 @@ draft: false
 	- 年历终稿
 	
 #### Working
-- 11.08 ICASSP审稿
 - 11.17 CVPR'24 DDL
 
 #### Lesson
