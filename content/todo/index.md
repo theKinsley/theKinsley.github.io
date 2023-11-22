@@ -22,8 +22,7 @@ draft: false
 
 
 #### Personal
-- ZY: C#检查笔记
-- 2024春天 美团春招
+- 2023.11.30 答辩
 - 2024.09 申请奖学金
 
 #### Group
@@ -35,6 +34,8 @@ draft: false
 	- 配发
 	
 #### Working
+- ZY: C#检查笔记
+- 2024春天 美团春招
 
 #### Lesson
 - 11w2
