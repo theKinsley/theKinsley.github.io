@@ -35,7 +35,6 @@ draft: false
 	- 配发
 	
 #### Working
-- 11.20 PR审稿
 
 #### Lesson
 - 11w2
