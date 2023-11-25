@@ -9,7 +9,7 @@ draft = false
 {{% hugo-encryptor "0518" %}}
 
 感觉又到了写Worklog才能好好干活的时期了，那就写写吧。
-***: Worklog不是只有Work才有意义，生活和情绪也是Key point**
+> Worklog不是只有Work才有意义，生活和情绪也是Key point <
 
 2023.11.25
 
