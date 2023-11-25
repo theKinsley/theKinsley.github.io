@@ -121,7 +121,7 @@ KFC。
 CVPR期间，焦虑如果是一团火苗，在我身上燃烧着，也灼伤了你一些吧？
 我们和xkl一起走去拿快递的时候，原本已经被你努力掐灭的小火苗又悄悄复燃了，但是你发现了。
 This genuinely means something to me.
-I should be more tender. I'll remember and keep engaged on this.
+I should be more tender. I\'ll remember and keep engaged on this.
 “怎么这么好听”，“和我打”，“打得很好呀”，“是不是真的练过”。
 你是多么不吝于夸赞我的一个人呀，我当然也想把所有夸赞的话语说给你听。
 
