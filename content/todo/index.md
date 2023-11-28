@@ -27,7 +27,7 @@ draft: false
 
 #### Group
 - S13活动
-	- 竞猜奖品配发
+	- 竞猜奖品配发->开开
 - 秋冬季文创
 	- 配发
 	- 报销
@@ -38,7 +38,7 @@ draft: false
 
 #### Lesson
 - 找授课教师要PPT
-	- 到cj老师
+	- 到lds老师
 - 整理签到表
 	
 {{% /hugo-encryptor %}}
