@@ -22,6 +22,7 @@ draft: false
 
 #### Personal
 - 2023.11.30 答辩
+- 哈尔滨
 - 2024.09 申请奖学金
 
 #### Group
@@ -36,8 +37,8 @@ draft: false
 - 2024春天 美团春招
 
 #### Lesson
-- 11w2
-	- 找授课教师要PPT
-	- 整理签到表
+- 找授课教师要PPT
+	- 到cj老师
+- 整理签到表
 	
 {{% /hugo-encryptor %}}
