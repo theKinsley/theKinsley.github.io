@@ -21,7 +21,6 @@ draft: false
 | 日 | 家教（10:00） | 
 
 #### Personal
-- 2023.12.02 学院羽毛球比赛
 - 哈尔滨
 - 2024.09 申请奖学金
 
@@ -33,6 +32,8 @@ draft: false
 	- 报销
 	
 #### Working
+- TMM
+- 演示系统
 - 2023.12.13 TCSVT审稿
 - ZY: C# async await
 - 2024春天 美团春招
@@ -40,7 +41,7 @@ draft: false
 #### Lesson
 - 找授课教师要PPT
 	- 到lds老师
-	- 给未回复的老师打电话
+	- 周一给未回复的老师打电话
 - 整理签到表
 	
 {{% /hugo-encryptor %}}
