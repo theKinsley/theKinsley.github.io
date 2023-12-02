@@ -40,6 +40,7 @@ draft: false
 #### Lesson
 - 找授课教师要PPT
 	- 到lds老师
+	- 给未回复的老师打电话
 - 整理签到表
 	
 {{% /hugo-encryptor %}}
