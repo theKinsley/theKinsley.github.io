@@ -13,3 +13,7 @@ draft = false
 		- CLIP as visual encoder, Vicuna LLM
 		- 7B, 13B
 		
+- Video-LLaVA (PKU, YuanGroup) https://openxlab.org.cn/apps/detail/houshaowei/Video-LLaVA
+	- Highlight: Alignment *Before* Projection, input image or video
+	- Architecture
+		- LanguageBind as MM encoder, Vicuna LLM
