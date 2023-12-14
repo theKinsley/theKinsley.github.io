@@ -11,6 +11,7 @@ draft = false
 New Christmas!
 
 *: 身而为人，要张嘴巴！
+*: 不能因为有依靠了，就失去独立的一面。
 
 <hr>
 
