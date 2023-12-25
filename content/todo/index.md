@@ -33,7 +33,7 @@ draft: false
 - @2023.12.12 智能青年
 	
 #### Working
-- 2023.12.27 TCSVT审稿
+- 2023.12.27 TCSVT、CVPR审稿
 - ZY: C# async await
 - 2024春天 美团春招
 
