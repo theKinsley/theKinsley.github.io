@@ -38,6 +38,7 @@ draft: false
 - 2024春天 美团春招
 
 #### Lesson
+- 实习单
 - 整理签到表
 	
 {{% /hugo-encryptor %}}
