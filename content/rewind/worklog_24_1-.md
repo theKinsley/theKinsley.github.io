@@ -9,7 +9,7 @@ draft = false
 {{% hugo-encryptor "0518" %}}
 
 New! 评价种类是{科研、社交、生活}，分值是[0,3]。
-***: Worklog不是只有Work才有意义，生活和情绪也是Key point**
+***: Worklog不是只有Work才有意义，Personal也是Key point**
 
 <hr>
 
