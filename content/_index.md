@@ -6,9 +6,11 @@ draft: false
 
 ### About Me | Hsiao-Yuan, Kinsley, Hsu
 
-I am now a master\'s student in **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology) at **Peking University**. My research interests include visual-textual creativity understanding and generation and video-based human action understanding. Here's my [[reseme]](/hsiaoyuanhsu_public_cv.pdf)
+I am now a master\'s student in **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology) at **Peking University**. My research interests include visual-textual creativity understanding and generation and video-based human action understanding.
 
 目前，我在**北京大学王选计算机研究所**（智能学院）攻读硕士研究生学位，研究方向为视觉-文本创意理解与生成、基于视频的人体动作理解。
+
+- [[简历]](/hsiaoyuanhsu_public_cv.pdf)
 
 ### Publications & Competitions
 
