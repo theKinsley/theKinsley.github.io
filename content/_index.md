@@ -18,9 +18,3 @@ I am now a master\'s student in **Wangxuan Institute of Computer Technology** (S
 - \"DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs\"<br />*in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
 - \"Disaster Scene Description & Indexing Challenge\" 1st place<br />*in* **TRECVID 2022** [[Paper]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
 - \"A Deep Learning-based Integrated Algorithm for Misbehavior Detection System in VANETs\"<br />*in Proceedings of* **ACM ICEA 2021** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3491396.3506509)
-
-### Education
-<img src="education.png">
-
-### Experiences
-<img src="experience.png">
