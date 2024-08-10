@@ -10,7 +10,7 @@ I am now a master\'s student in **Wangxuan Institute of Computer Technology** (S
 
 目前，我在**北京大学王选计算机研究所**（智能学院）攻读硕士研究生学位，研究方向为视觉-文本创意理解与生成、基于视频的人体动作理解。
 
-- [[简历]](/hsiaoyuanhsu_public_cv.pdf)/[[Resume slide]](/hsiaoyuanhsu_public_slide.pdf)
+- [[简历]](/hsiaoyuanhsu_public_cv.pdf)/[[Resume slide]](/hsiaoyuanhsu_public_slide.pdf)/[[Portfolio作品集]](/hsiaoyuanhsu_portfolio_24.pdf)
 
 ### Publications & Competitions
 
