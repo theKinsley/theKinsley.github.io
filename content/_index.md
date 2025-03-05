@@ -6,7 +6,7 @@ draft: false
 
 ### About Me | Hsiao-Yuan, Kinsley, Hsu
 
-Currently, I am studying for my master's degree at **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology, SIST), **Peking University**. Previously, I received my bachelor's degree at Department of Computer Science and Engineering, National Sun Yat-Sen University. My research interests include visual-textual presentation's creativity understanding and generation, mainly focusing on **AI-empowered poster design**. In addition to computer science and technology, I also have a passion for graphic design. In 2023-2025, I am responsible for the artistic promotion work in SIST and have a simple [portfolio](hsiaoyuanhsu_portfolio_24.pdf) of my design works.
+Currently, I am studying for my master\'s degree at **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology, SIST), **Peking University**. Previously, I received my bachelor\'s degree at Department of Computer Science and Engineering, National Sun Yat-Sen University. My research interests include creativity understanding and generation of visual-textual presentation, mainly focusing on **AI-empowered poster design**. In addition to computer science and technology, I also have a passion for graphic design. In 2023-2025, I am responsible for the artistic promotion work in SIST and have a simple [portfolio](hsiaoyuanhsu_portfolio_24.pdf) of my design works.
 
 ### Publications & Competitions
 
@@ -18,13 +18,13 @@ Currently, I am studying for my master's degree at **Wangxuan Institute of Compu
 
 ### Awards
 
-- 2024, Scholarship for Students from Taiwan, the First Prize, Ministry of Education of the People's Republic of China
+- 2024, Scholarship for Students from Taiwan, the First Prize, Ministry of Education of the People\'s Republic of China
 - 2024, May 4th Scholarship, Peking University
 - 2024, Merit Student, Peking University
 - 2024, Best Organizing Award in PKU.SIST-Huawei Summer Camp @ Shenzhen, Huawei
-- 2023, Scholarship for Students from Taiwan, the Special Prize, Ministry of Education of the People's Republic of China
+- 2023, Scholarship for Students from Taiwan, the Special Prize, Ministry of Education of the People\'s Republic of China
 - 2023, Award for Scientific Research of Peking University
-- 2022, Scholarship for Students from Taiwan, the Second Prize, Ministry of Education of the People's Republic of China
-- 2021, Special prize of Wistron Corporation goes to 'A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs'
+- 2022, Scholarship for Students from Taiwan, the Second Prize, Ministry of Education of the People\'s Republic of China
+- 2021, Special prize of Wistron Corporation goes to \'A Deep Learning-Based Integrated Algorithm for Misbehavior Detection System in VANETs\'
 - 2021, Excellent Student Award, National Sun Yat-Sen University
 - 2018, Excellent Student Award, National Sun Yat-Sen University
