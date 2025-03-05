@@ -6,11 +6,11 @@ draft: false
 
 ### About Me | Hsiao-Yuan, Kinsley, Hsu
 
-I am now a master\'s student in **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology) at **Peking University**. My research interests include visual-textual presentation's creativity understanding and generation, mainly focusing on AI poster design.
-
-目前，我在**北京大学王选计算机研究所**（智能学院）攻读硕士研究生学位，研究方向为视觉-文本展示创意的理解与生成，主要聚焦于AI海报生成。
-
-- [[简历]](/hsiaoyuanhsu_public_cv.pdf)/[[Resume slide]](/hsiaoyuanhsu_public_slide.pdf)/[[Portfolio作品集]](/hsiaoyuanhsu_portfolio_24.pdf)
+Currently, I am studying for my master's degree at **Wangxuan Institute of Computer Technology** (School of Intelligence and Science Technology, SIST), **Peking University**.
+Previously, I received my bachelor's degree at Department of Computer Science and Engineering, **National Sun Yat-Sen University**.
+My research interests include visual-textual presentation's creativity understanding and generation, mainly focusing on AI-empowered poster design.
+I also have a passion for graphic design.
+In 2023-2025, I am responsible for the artistic promotion work in SIST and have a simple [portfolio](hsiaoyuanhsu_portfolio_24.pdf) of my design works.
 
 ### Publications & Competitions
 
