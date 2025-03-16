@@ -10,7 +10,7 @@ Currently, I am studying for my master\'s degree at **Wangxuan Institute of Comp
 
 ### Publications & Competitions
 
-- \"PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation\" *in Proceedings of* **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO.github.io/)
+- \"PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation\" *in Proceedings of* **CVPR 2025** [[Project]](https://thekinsley.github.io/PosterO/)
 - \"PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout\" *in Proceedings of* **CVPR 2023** [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Hsu_PosterLayout_A_New_Benchmark_and_Approach_for_Content-Aware_Visual-Textual_Presentation_CVPR_2023_paper.html)[[Project]](http://39.108.48.32/mipl/PosterLayout/)[[Source code]](https://github.com/PKU-ICST-MIPL/PosterLayout-CVPR2023)
 - \"DensityLayout: Density-conditioned Layout GAN for Visual-textual Presentation Designs\" *in Proceedings of* **ICIG 2023** [[Paper]](http://dx.doi.org/10.1007/978-3-031-46308-2_16)
 - \"Disaster Scene Description & Indexing Challenge\" 1st place *in* **TRECVID 2022** [[Report]](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/pku_wict.pdf)
