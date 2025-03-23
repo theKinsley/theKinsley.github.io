@@ -79,7 +79,7 @@ title = "e-mail"
 url = "kslh99@stu.pku.edu.cn"
 
 [[socialIcons]]
-icon = "fa-brands fa-google-scholar"
+icon = "fab fa-google-scholar"
 title = "google scholar"
 url = "https://scholar.google.com/citations?user=fDdLat4AAAAJ"
 
