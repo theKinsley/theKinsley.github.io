@@ -74,7 +74,12 @@ title = "instagram"
 url = "https://instagram.com/thekinsley_gallery/"
 
 [[socialIcons]]
-icon = "fab fa-google-scholar"
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "kslh99@stu.pku.edu.cn"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
 title = "google scholar"
 url = "https://scholar.google.com/citations?user=fDdLat4AAAAJ"
 
