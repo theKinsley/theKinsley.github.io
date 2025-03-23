@@ -13,6 +13,5 @@
         "parser": "go-template"
       }
     }
-  ],
-  "plugins": ["prettier-plugin-go-template"]
+  ]
 }
