@@ -64,22 +64,22 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 # url = "https://de.linkedin.com/"
 
 [[socialIcons]]
-icon = "fab fa-github"
+icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/theKinsley"
 
 [[socialIcons]]
-icon = "fab fa-google-scholar"
+icon = "fa-brands fa-google-scholar"
 title = "scholar"
 url = "https://scholar.google.com/citations?user=fDdLat4AAAAJ"
 
 [[socialIcons]]
-icon = "fab fa-instagram"
+icon = "fa-brands fa-instagram"
 title = "instagram"
 url = "https://instagram.com/thekinsley_gallery/"
 
 [[socialIcons]]
-icon = "fas fa-envelope"
+icon = "fa-solid fa-envelope"
 title = "e-mail"
 url = "kslh99@stu.pku.edu.cn"
 
