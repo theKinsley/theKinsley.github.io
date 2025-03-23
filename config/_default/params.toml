@@ -69,6 +69,11 @@ title = "GitHub"
 url = "https://github.com/theKinsley"
 
 [[socialIcons]]
+icon = "fab fa-google-scholar"
+title = "Scholar"
+url = "https://scholar.google.com/citations?user=fDdLat4AAAAJ"
+
+[[socialIcons]]
 icon = "fab fa-instagram"
 title = "instagram"
 url = "https://instagram.com/thekinsley_gallery/"
@@ -77,11 +82,6 @@ url = "https://instagram.com/thekinsley_gallery/"
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "kslh99@stu.pku.edu.cn"
-
-[[socialIcons]]
-icon = "fas fa-google-scholar"
-title = "google scholar"
-url = "https://scholar.google.com/citations?user=fDdLat4AAAAJ"
 
 [mermaid]
 # enable = true
