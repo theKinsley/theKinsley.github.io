@@ -57,12 +57,6 @@ enable = false  # options: true, false. Enable math support globally, default: f
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-# icon = "fab fa-linkedin"
-# title = "Linkedin"
-# url = "https://de.linkedin.com/"
-
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
