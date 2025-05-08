@@ -18,7 +18,7 @@ Currently, I am studying for my master\'s degree at **Wangxuan Institute of Comp
 
 ### Awards
 
-- 2025, Outstanding Graduate of Beijing\'s Higher Education Institutions
+- 2025, Outstanding Graduate of Beijing\'s Higher Education Institutions, Beijing Municipal Education Commission
 - 2025, Outstanding Graduate, Peking University
 - 2024, Scholarship for Students from Taiwan, the First Prize, Ministry of Education of the People\'s Republic of China
 - 2024, May 4th Scholarship, Peking University
